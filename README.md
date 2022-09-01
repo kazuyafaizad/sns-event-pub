@@ -1,3 +1,5 @@
+Project on event management
+
 ```
 cp .env.example .env
 composer install

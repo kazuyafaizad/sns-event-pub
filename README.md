@@ -1,4 +1,5 @@
-Project on event management
+Open source version for 
+Project on sns event management
 
 ```
 cp .env.example .env
